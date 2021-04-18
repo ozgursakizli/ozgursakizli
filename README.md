@@ -6,10 +6,10 @@ My name is Özgür Sakızlı and I'm an Android Developer.
 
 I'm always trying to keep up with new Android features. You can find my demo projects here...
 
-### Contacts 
-LinkedIn: https://www.linkedin.com/in/ozgursakizli/
+### 📫 How to reach me 
+[LinkedIn](https://www.linkedin.com/in/ozgursakizli/)
 
-Email: ozgursakizli@gmail.com
+ozgursakizli@gmail.com
 
 ### Badges
 ![](https://komarev.com/ghpvc/?username=ozgursakizli)
