@@ -11,5 +11,7 @@ I'm always trying to keep up with new Android features. You can find my demo pro
 
 ozgursakizli@gmail.com
 
+[![ozgursakizli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgursakizli)](https://github.com/ozgursakizli/github-readme-stats)
+
 ### Badges
 ![](https://komarev.com/ghpvc/?username=ozgursakizli)
