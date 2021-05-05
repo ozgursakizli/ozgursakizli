@@ -13,5 +13,4 @@ ozgursakizli@gmail.com
 
 ![ozgursakizli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgursakizli&count_private=true&show_icons=true&theme=dracula)
 
-### Badges
 ![](https://komarev.com/ghpvc/?username=ozgursakizli)
